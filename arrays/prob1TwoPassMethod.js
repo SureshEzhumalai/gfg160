@@ -1,3 +1,5 @@
+// day 1 - prob 1 - approach 2
+
 function getSecondLargestTwoPass(arr){
 
     let firstMax = -1;
