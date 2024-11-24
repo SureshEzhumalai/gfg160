@@ -6,7 +6,7 @@ function rotateArrayToLeft(arr, d){
 
     let n = arr.length;
 
-    d = n % d;
+    d = d % n;
 
     let temp = new Array(n);
 
